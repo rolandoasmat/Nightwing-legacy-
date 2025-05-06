@@ -1,3 +1,7 @@
+!!! THIS REPO IS NO LONGER MAINTAINED !!!
+
+Going to start fresh in https://github.com/rolandoasmat/TMDB-Android-Client. 
+
 [![Build Status](https://travis-ci.org/rolandoasmat/Movie-Night.svg?branch=develop)](https://travis-ci.org/rolandoasmat/Movie-Night)
 
 # Nightwing
